@@ -6,7 +6,7 @@ $(function(){
 			   $("#offslide-btn").click(function(){
 			   $("#offslide").animate({left: "0%"}, 800);
 			   $("#offslide-btn").css("display", "none");
-			   $("#offslide-h1").animate({left: "15%"} ,900);
+			   $("#offslide-h1").animate({left: "14%"} ,900);
 			   $("#offslide-btn").off(click);
 			   
 		});
